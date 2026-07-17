@@ -14,3 +14,4 @@ third.inn
 undefined
 third.innerHTML = "Samuel";
 'Samuel'
+document.querySelector("ul li a").style.color = "red"
